@@ -11,3 +11,5 @@
 # Level
   - You can edit the level using '0' to denote barriers, '1' is used just to give reference to level boundaries
 
+![image](https://github.com/d-robbins/flappy-clone/blob/main/res/preview.PNG)
+
