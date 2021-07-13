@@ -51,7 +51,7 @@ func main() {
 
 	// Create window
 	window, err := sdl.CreateWindow(
-		"Game",
+		"FlappyClone",
 		sdl.WINDOWPOS_UNDEFINED, sdl.WINDOWPOS_UNDEFINED,
 		SCREEN_WIDTH,
 		SCREEN_HEIGHT,
